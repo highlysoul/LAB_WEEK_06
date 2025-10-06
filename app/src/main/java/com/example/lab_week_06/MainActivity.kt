@@ -52,6 +52,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Kipuka",
+                    "Loves naps and bubbly",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Eliot",
+                    "Fast and sneaky hunter",
+                    "https://cdn2.thecatapi.com/images/cgt.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.AmericanCurl,
+                    "Seeky",
+                    "Playful and full of curiosity",
+                    "https://cdn2.thecatapi.com/images/9p.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Ocean",
+                    "Always hungry and needy",
+                    "https://cdn2.thecatapi.com/images/9j5.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Sheng",
+                    "Elegant and cute queen",
+                    "https://cdn2.thecatapi.com/images/6qi.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.AmericanCurl,
+                    "Hua",
+                    "The fearless leader of the bunch",
+                    "https://cdn2.thecatapi.com/images/36o.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.ExoticShorthair,
+                    "Nong",
+                    "The mysterious observer",
+                    "https://cdn2.thecatapi.com/images/24p.jpg"
                 )
             )
         )
